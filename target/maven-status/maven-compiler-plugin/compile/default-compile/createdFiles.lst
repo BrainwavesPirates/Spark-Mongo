@@ -1,0 +1,6 @@
+com\spark\ApiController.class
+com\spark\Main.class
+com\spark\ProductService.class
+com\spark\JsonUtil.class
+com\spark\Product.class
+com\spark\ResponseError.class
